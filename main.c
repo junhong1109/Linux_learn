@@ -23,5 +23,6 @@ int main()
 		pop_link(plastack);
 	}
 	printf("%d\n",res);
+	printf("第一次通过git更改");
 	return 0;	
 }
